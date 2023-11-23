@@ -1,3 +1,4 @@
+![image](https://github.com/Ayesha-Saddique9/Ayesha-Saddique9/assets/142135634/c8547b5f-2ec7-4dbd-9f3a-069c38572ed3)
 <h1 align="center">Hi 👋, I'm Ayesha Saddique</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
