@@ -1,28 +1,53 @@
-![image](https://github.com/Ayesha-Saddique9/Ayesha-Saddique9/assets/142135634/c2f814d2-1bfa-4f5f-9f95-e1987bd4883b)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ayesha Saddique</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<!-- Yahan aap apna wahi purana banner link laga sakti hain agar chahen, ya isay khali chorh dain clean look ke liye -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Ayesha%20Saddique&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" />
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ayesha+Saddique+👋;Frontend+Web+Developer;Software+Engineering+Student;React.js+%26+Tailwind+Enthusiast" alt="Typing SVG" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesha-saddique9&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha-saddique9" /> </p>
-
-- 🌱 I’m currently learning **Mern Stack Development**
-
-- 💬 Ask me about **HTML, CSS ,JavaScript ,React**
-
-- 📫 How to reach me **ayeshasaddique70@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayesha saddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha saddique" height="30" width="40" /></a>
+<p align="center">
+  A passionate <b>Frontend Developer</b> from Lahore, Pakistan, focused on building clean, responsive, and interactive web applications. Actively learning modern web technologies to create seamless user experiences.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayesha-saddique9&show_icons=true&locale=en&layout=compact" alt="ayesha-saddique9" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayesha-saddique9&show_icons=true&locale=en" alt="ayesha-saddique9" /></p>
+### 🛠️ Languages & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-saddique9&" alt="ayesha-saddique9" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-%230078D4.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</p>
+
+<br>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayesha-Saddique9&show_icons=true&theme=radical&hide_border=true" alt="Ayesha's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha-Saddique9&theme=radical&hide_border=true" alt="Ayesha's Streak" />
+</p>
+
+<br>
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:ayeshasaddique70@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/ayesha-saddique9">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+</div>
