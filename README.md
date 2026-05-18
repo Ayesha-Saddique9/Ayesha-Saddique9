@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Ayesha Saddique
 
-### Frontend Developer • React Learner • JavaScript Enthusiast
+### Frontend Developer • React.js • JavaScript Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Frontend+Software+Engineer;React.js+Learner;JavaScript+Enthusiast;Building+Responsive+Web+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+ Enthusiast;JavaScript+Developer;Building+Responsive+Web+Apps" />
 
 </div>
 
