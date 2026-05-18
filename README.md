@@ -4,7 +4,7 @@
 
 ### Frontend Developer • React Learner • JavaScript Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Learner;JavaScript+Enthusiast;Building+Responsive+Web+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Frontend+Software+Engineer;React.js+Learner;JavaScript+Enthusiast;Building+Responsive+Web+Apps" />
 
 </div>
 
@@ -41,19 +41,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" />
 
 </div>
-
----
-
-# 📌 Featured Projects
-
-## 🎨 React Background Color Changer
-Interactive React app that dynamically changes UI background colors using React Hooks and Tailwind CSS.
-
-## 🔍 GitHub Profile Finder
-JavaScript application using GitHub API to fetch and display user profile details dynamically.
-
-## 🔐 Password Generator
-Responsive password generator with customizable logic using JavaScript.
 
 ---
 
