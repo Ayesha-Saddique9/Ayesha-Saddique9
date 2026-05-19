@@ -6,9 +6,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Enthusiast;JavaScript+Developer;Building+Responsive+Web+Apps" />
 
-
+<br/>
 <img src="https://komarev.com/ghpvc/?username=Ayesha-Saddique9&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Ayesha-Saddique9?label=Followers&style=for-the-badge&color=38B2AC&labelColor=0D1117" alt="Followers" />
 
 </div>
 
