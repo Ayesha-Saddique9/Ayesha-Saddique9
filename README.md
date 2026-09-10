@@ -174,18 +174,36 @@ A responsive movie discovery application using the OMDB REST API.
 
 ---
 
-## 🧩 What I Work With
+## 🧩 Technical Skills
 
 <div align="center">
 
-| Area               | Technologies                                      |
-| ------------------ | ------------------------------------------------- |
-| **Frontend**       | React.js · JavaScript · HTML · CSS · Tailwind CSS |
-| **Backend**        | Node.js · Express.js · REST APIs                  |
-| **Database**       | MongoDB · Mongoose                                |
-| **Authentication** | JWT · bcrypt · Protected Routes                   |
-| **Tools**          | Git · GitHub · Postman · VS Code                  |
-| **Build Tools**    | Vite · npm                                        |
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React.js · JavaScript · HTML · CSS · Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js · Express.js · REST APIs</td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>MongoDB · Mongoose</td>
+  </tr>
+  <tr>
+    <td><strong>Authentication</strong></td>
+    <td>JWT · bcrypt · Protected Routes</td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>Git · GitHub · Postman · VS Code</td>
+  </tr>
+  <tr>
+    <td><strong>Build Tools</strong></td>
+    <td>Vite · npm</td>
+  </tr>
+</table>
 
 </div>
 
@@ -195,13 +213,13 @@ A responsive movie discovery application using the OMDB REST API.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayesha-Saddique9&show_icons=true&hide_border=true&bg_color=0B1220&title_color=67D6C4&icon_color=7AA2F7&text_color=CBD5E1&count_private=true&include_all_commits=true" alt="GitHub Statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayesha-Saddique9&show_icons=true&hide_border=true&bg_color=0B1220&title_color=67D6C4&icon_color=7AA2F7&text_color=CBD5E1&count_private=true&include_all_commits=true" alt="GitHub Statistics" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha-Saddique9&hide_border=true&background=0B1220&ring=67D6C4&fire=67D6C4&currStreakLabel=67D6C4&sideLabels=94A3B8&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=64748B" alt="GitHub Streak" />
+<img height="180" src="https://streak-stats.demolab.com?user=Ayesha-Saddique9&hide_border=true&background=0B1220&ring=67D6C4&fire=67D6C4&currStreakLabel=67D6C4&sideLabels=94A3B8&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=64748B" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Saddique9&layout=compact&hide_border=true&bg_color=0B1220&title_color=67D6C4&text_color=CBD5E1&langs_count=6" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Saddique9&layout=compact&hide_border=true&bg_color=0B1220&title_color=67D6C4&text_color=CBD5E1&langs_count=6" alt="Top Languages" />
 
 </div>
 
@@ -211,7 +229,7 @@ A responsive movie discovery application using the OMDB REST API.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayesha-Saddique9&bg_color=0B1220&color=94A3B8&line=67D6C4&point=E5E7EB&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayesha-Saddique9&bg_color=0B1220&color=94A3B8&line=67D6C4&point=E5E7EB&area=true&hide_border=true" alt="Contribution Activity" />
 
 </div>
 
