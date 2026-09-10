@@ -30,74 +30,6 @@ Aspiring **MERN Stack Developer** with a solid foundation in **MongoDB, Express.
 
 ---
 
-## 🚀 Featured Projects
-
-### 📝 NoteFlow — Full-Stack MERN Notes App
-Secure, user-specific note management with JWT authentication and full CRUD operations, built with React.js, Node.js, Express.js, and MongoDB.
-
-- 🔐 JWT-based user authentication with secure password hashing
-- 📝 Full CRUD functionality — create, read, update, and delete notes
-- 🔍 Real-time search and filtering using Axios API calls
-- 📱 Responsive UI built with React.js and Tailwind CSS
-
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT Auth`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayesha-Saddique9/NoteFlow-MERN-Application)
-
-### 🔐 MERN Authentication System
-Standalone JWT-based authentication system with protected routes, password hashing, and secure middleware — built to demonstrate backend security fundamentals.
-
-- 🔑 User registration and login with hashed passwords
-- 🎫 JWT token generation and verification
-- 🛡️ Protected/private routes secured via custom middleware
-- 🗄️ MongoDB + Mongoose schema for user management
-
-`Node.js` `Express.js` `MongoDB` `JWT Auth`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayesha-Saddique9/mern-authentication)
-
-### 🛒 AyeshaMart — E-Commerce Frontend
-Responsive e-commerce interface with dynamic product data, search, filtering, and sorting, built with React.js, Vite, and Tailwind CSS.
-
-- 🛍️ Dynamic product listing via FakeStoreAPI integration
-- 🔍 Search, category filtering, and sorting functionality
-- 🛒 Global cart/state management using Context API
-- 📱 Fully responsive design built with Vite + Tailwind CSS
-
-`React.js` `Tailwind CSS` `REST API` `Context API`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayesha-Saddique9/Ecommerce-AyeshaMart)
-
-### 🎬 Movie Finder
-Real-time movie search app with detailed info modals, built with React.js and the OMDB REST API.
-
-- 🔍 Real-time search using the OMDB REST API
-- 🎬 Detailed movie info shown in interactive modals
-- ⏳ Error handling and loading states for smooth UX
-- 📱 Mobile-first responsive layout with Tailwind CSS
-
-`React.js` `REST API` `Responsive Design`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayesha-Saddique9/React-Movie-Finder)
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/ayesha-saddique9">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Ayesha-Saddique9">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:ayeshasaddique70@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -118,6 +50,74 @@ Real-time movie search app with detailed info modals, built with React.js and th
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vercel" alt="Tools" />
 
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 📝 NoteFlow — Full-Stack MERN Notes App
+Secure, user-specific note management with JWT authentication and full CRUD operations, built with React.js, Node.js, Express.js, and MongoDB.
+
+- 🔐 JWT-based user authentication with secure password hashing
+- 📝 Full CRUD functionality — create, read, update, and delete notes
+- 🔍 Real-time search and filtering using Axios API calls
+- 📱 Responsive UI built with React.js and Tailwind CSS
+
+![React](https://img.shields.io/badge/React.js-77BD48?style=flat-square&logo=react&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-77BD48?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT_Auth-77BD48?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayesha-Saddique9/NoteFlow-MERN-Application)
+
+### 🔐 MERN Authentication System
+Standalone JWT-based authentication system with protected routes, password hashing, and secure middleware — built to demonstrate backend security fundamentals.
+
+- 🔑 User registration and login with hashed passwords
+- 🎫 JWT token generation and verification
+- 🛡️ Protected/private routes secured via custom middleware
+- 🗄️ MongoDB + Mongoose schema for user management
+
+![Node](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-77BD48?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT_Auth-77BD48?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayesha-Saddique9/mern-authentication)
+
+### 🛒 AyeshaMart — E-Commerce Frontend
+Responsive e-commerce interface with dynamic product data, search, filtering, and sorting, built with React.js, Vite, and Tailwind CSS.
+
+- 🛍️ Dynamic product listing via FakeStoreAPI integration
+- 🔍 Search, category filtering, and sorting functionality
+- 🛒 Global cart/state management using Context API
+- 📱 Fully responsive design built with Vite + Tailwind CSS
+
+![React](https://img.shields.io/badge/React.js-77BD48?style=flat-square&logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3B82F6?style=flat-square&logo=tailwindcss&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-77BD48?style=flat-square&logo=fastapi&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-3B82F6?style=flat-square&logo=vite&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayesha-Saddique9/Ecommerce-AyeshaMart)
+
+### 🎬 Movie Finder
+Real-time movie search app with detailed info modals, built with React.js and the OMDB REST API.
+
+- 🔍 Real-time search using the OMDB REST API
+- 🎬 Detailed movie info shown in interactive modals
+- ⏳ Error handling and loading states for smooth UX
+- 📱 Mobile-first responsive layout with Tailwind CSS
+
+![React](https://img.shields.io/badge/React.js-77BD48?style=flat-square&logo=react&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-3B82F6?style=flat-square&logo=fastapi&logoColor=white) ![Responsive](https://img.shields.io/badge/Responsive_Design-77BD48?style=flat-square&logo=css3&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayesha-Saddique9/React-Movie-Finder)
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/ayesha-saddique9">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Ayesha-Saddique9">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:ayeshasaddique70@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 ---
