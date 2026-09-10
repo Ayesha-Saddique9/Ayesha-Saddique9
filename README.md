@@ -1,99 +1,159 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Ayesha+Saddique;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express+%7C+MongoDB" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Developer crafting secure, scalable, and beautiful web experiences</b>
-</p>
+  <h1>Ayesha Saddique</h1>
+  <h3>MERN Stack Developer • React.js • Node.js • MongoDB</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Lahore,_Pakistan-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00F5D4" />
-  <img src="https://img.shields.io/badge/Open_to_Internships-0D1117?style=for-the-badge&logo=briefcase&logoColor=00F5D4" />
-  <img src="https://komarev.com/ghpvc/?username=Ayesha-Saddique9&label=Views&color=00F5D4&style=for-the-badge" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=F2A93B&center=true&vCenter=true&width=650&lines=Building+full-stack+MERN+applications;React.js+%2B+Node.js+%2B+Express.js+%2B+MongoDB;JWT+Authentication+%2B+REST+API+Development;Seeking+a+Paid+MERN+Stack+Internship" alt="Typing SVG" />
 
----
-
-### 👩‍💻 About Me
-
-I'm a passionate **MERN Stack Developer** who loves building products end-to-end.  
-From database design to pixel-perfect UI, I focus on clean code, security, and performance.
-
-- 🔭 Building: Full-stack apps with **JWT Auth + REST APIs + MongoDB**
-- 🌱 Learning: **System Design, Advanced React, Microservices**
-- 🎯 Seeking: **Paid MERN/Full-Stack Internship** in Lahore | Remote
-- 📫 Reach me: **ayeshasaddique70@gmail.com**
-
----
-
-### 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,npm&theme=dark" />
-</p>
+
+  <img src="https://img.shields.io/badge/📍_Lahore,_Pakistan-D98E2B?style=for-the-badge&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/🎯_Open_to_Paid_Internships-D98E2B?style=for-the-badge&logoColor=white" alt="Open to Work" />
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Ayesha-Saddique9&label=Profile+Views&color=F2A93B&style=flat-square" alt="Profile Views" />
+
+</div>
 
 ---
 
-### 🚀 Projects That Matter
+## 👩‍💻 About Me
 
-| Project | Description | Tech Stack |
-| --- | --- | --- |
-| **📝 NoteFlow**<br>[Repo](https://github.com/Ayesha-Saddique9/NoteFlow-MERN-Application) | Secure notes app with JWT auth + Full CRUD + Real-time search | `React` `Node` `Express` `MongoDB` `Tailwind` `JWT` |
-| **🔐 MERN Auth**<br>[Repo](https://github.com/Ayesha-Saddique9/mern-authentication) | Production-grade authentication with protected routes & middleware | `Node` `Express` `MongoDB` `JWT` `Bcrypt` |
-| **🛒 AyeshaMart**<br>[Repo](https://github.com/Ayesha-Saddique9/Ecommerce-AyeshaMart) | E-commerce UI with search, filter, cart using Context API | `React` `Vite` `Tailwind` `REST API` |
-| **🎬 Movie Finder**<br>[Repo](https://github.com/Ayesha-Saddique9/React-Movie-Finder) | OMDB API based movie search with modals & error handling | `React` `Tailwind` `REST API` |
+Aspiring **MERN Stack Developer** with a solid foundation in **MongoDB, Express.js, React.js, and Node.js**. I build full-stack, responsive web applications — from database schema to final UI — and I'm passionate about writing clean, secure, and maintainable code.
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayesha-Saddique9&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha-Saddique9&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Saddique9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&langs_count=8" />
-</p>
+- 🔭 Currently building full-stack projects with **JWT authentication**, **RESTful APIs**, and **MongoDB**
+- 🌱 Deepening my knowledge in **system design**, **React Hooks**, and **backend architecture**
+- 💡 Strong interest in clean architecture, secure authentication flows, and component-based frontend design
+- 🎯 Currently seeking a **Paid MERN Stack / Full-Stack Developer Internship** in Lahore (On-site / Hybrid / Remote)
+- 📫 Reach me at: **ayeshasaddique70@gmail.com**
 
 ---
 
-### 📈 Contribution Activity
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayesha-Saddique9&theme=react-dark&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+<div align="center">
 
----
+**Frontend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" alt="Frontend Skills" />
 
-### 🐍 Contribution Snake
+<br/><br/>
 
-<p align="center">
-  <img src="https://github.com/Ayesha-Saddique9/Ayesha-Saddique9/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
-</p>
+**Backend & Database**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" alt="Backend Skills" />
 
-> **Note**: Snake tabhi show hoga jab aap ne `github-contribution-grid-snake` workflow set kiya hua ho. Agar nahi hai to 2 min mai setup karwa dun gi.
+<br/><br/>
 
----
+**Tools & Platforms**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vercel" alt="Tools" />
 
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/ayesha-saddique9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Ayesha-Saddique9"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:ayeshasaddique70@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>"Code is not just about writing lines — it's about solving problems with clarity, elegance, and precision."</i>
-</p>
+## 🚀 Featured Projects
 
-<p align="center">
-  <b>Open to collaboration & new opportunities. Let's build something amazing! 🚀</b>
-</p>
+### 📝 NoteFlow — Full-Stack MERN Notes App
+Secure, user-specific note management with JWT authentication and full CRUD operations, built with React.js, Node.js, Express.js, and MongoDB.
+
+- 🔐 JWT-based user authentication with secure password hashing
+- 📝 Full CRUD functionality — create, read, update, and delete notes
+- 🔍 Real-time search and filtering using Axios API calls
+- 📱 Responsive UI built with React.js and Tailwind CSS
+
+![React](https://img.shields.io/badge/React.js-F2A93B?style=flat-square&logo=react&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-D98E2B?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-F2A93B?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-D98E2B?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT_Auth-F2A93B?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayesha-Saddique9/NoteFlow-MERN-Application)
+
+### 🔐 MERN Authentication System
+Standalone JWT-based authentication system with protected routes, password hashing, and secure middleware — built to demonstrate backend security fundamentals.
+
+- 🔑 User registration and login with hashed passwords
+- 🎫 JWT token generation and verification
+- 🛡️ Protected/private routes secured via custom middleware
+- 🗄️ MongoDB + Mongoose schema for user management
+
+![Node](https://img.shields.io/badge/Node.js-D98E2B?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-F2A93B?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-D98E2B?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT_Auth-F2A93B?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayesha-Saddique9/mern-authentication)
+
+### 🛒 AyeshaMart — E-Commerce Frontend
+Responsive e-commerce interface with dynamic product data, search, filtering, and sorting, built with React.js, Vite, and Tailwind CSS.
+
+- 🛍️ Dynamic product listing via FakeStoreAPI integration
+- 🔍 Search, category filtering, and sorting functionality
+- 🛒 Global cart/state management using Context API
+- 📱 Fully responsive design built with Vite + Tailwind CSS
+
+![React](https://img.shields.io/badge/React.js-F2A93B?style=flat-square&logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-D98E2B?style=flat-square&logo=tailwindcss&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-F2A93B?style=flat-square&logo=fastapi&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-D98E2B?style=flat-square&logo=vite&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayesha-Saddique9/Ecommerce-AyeshaMart)
+
+### 🎬 Movie Finder
+Real-time movie search app with detailed info modals, built with React.js and the OMDB REST API.
+
+- 🔍 Real-time search using the OMDB REST API
+- 🎬 Detailed movie info shown in interactive modals
+- ⏳ Error handling and loading states for smooth UX
+- 📱 Mobile-first responsive layout with Tailwind CSS
+
+![React](https://img.shields.io/badge/React.js-F2A93B?style=flat-square&logo=react&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-D98E2B?style=flat-square&logo=fastapi&logoColor=white) ![Responsive](https://img.shields.io/badge/Responsive_Design-F2A93B?style=flat-square&logo=css3&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayesha-Saddique9/React-Movie-Finder)
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/ayesha-saddique9">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Ayesha-Saddique9">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:ayeshasaddique70@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayesha-Saddique9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F2A93B&icon_color=F2A93B&text_color=ffffff&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha-Saddique9&theme=tokyonight&hide_border=true&background=0D1117&ring=F2A93B&fire=F2A93B&currStreakLabel=F2A93B" />
+
+  <br/><br/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Saddique9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F2A93B&text_color=ffffff&langs_count=6" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayesha-Saddique9&bg_color=0D1117&color=F2A93B&line=F2A93B&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 💡 Quote
+
+> "Code is not just about writing lines — it's about solving problems with clarity, elegance, and precision."
+
+---
+
+<div align="center">
+
+**Thank you for visiting my profile.**
+Open to collaboration, feedback, and new internship opportunities.
+
+</div>
